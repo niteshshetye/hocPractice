@@ -1,0 +1,12 @@
+.searchbar{
+    margin: 15px auto;
+}
+
+.searchbar input{
+    font-size: 1rem;
+    width: 100%;
+    padding: 8px 5px;
+    border-radius: 3px;
+    outline: none;
+    border: 1px solid black;
+}

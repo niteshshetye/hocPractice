@@ -1,0 +1,17 @@
+.user-conatiner{
+    border: 1px solid black;
+    border-radius: 5px;
+    /* width: 50%; */
+    margin: 8px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.user-conatiner p{
+    color: rgb(51, 51, 51);
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
